@@ -35,11 +35,6 @@
         "supported-apis": ["v0.1"]
     },
     {
-        "name": "boba-builder",
-        "rpc": "boba-builder.com/searcher/bundle",
-        "supported-apis": ["refund-recipient"]
-    },
-    {
         "name": "Gambit Labs",
         "rpc": "https://builder.gmbit.co/rpc",
         "supported-apis": ["refund-recipient"]
@@ -55,11 +50,6 @@
         "supported-apis": ["refund-recipient"]
     },
     {
-        "name": "BuildAI",
-        "rpc": "https://buildai.net",
-        "supported-apis": ["refund-recipient"]
-    },
-    {
         "name": "JetBuilder",
         "rpc": "rpc.mevshare.jetbldr.xyz",
         "supported-apis": ["refund-recipient", "cancel-endpoint"]
@@ -67,11 +57,6 @@
     {
         "name": "tbuilder",
         "rpc": "flashbots.rpc.tbuilder.xyz",
-        "supported-apis": ["refund-recipient"]
-    },
-    {
-        "name": "penguinbuild",
-        "rpc": "rpc.penguinbuild.org",
         "supported-apis": ["refund-recipient"]
     },
     {
