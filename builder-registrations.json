@@ -87,14 +87,13 @@
     {
         "name": "Eureka",
         "rpc": "rpc.eurekabuilder.xyz",
-        "supported-apis": ["refund-recipient"]
+        "supported-apis": ["refund-recipient", "cancel-endpoint"]
     },
     {
         "name": "EZChain",
         "rpc": "rpc.ezchain.xyz",
         "supported-apis": ["v0.1"]
-        "supported-apis": ["refund-recipient", "cancel-endpoint"]
-    },
+    }
     {
         "name": "Bombora",
         "rpc": "rpc.bombora.build",
